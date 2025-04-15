@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "jsx": "react-jsx",   // This enables JSX support in TypeScript.
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["./src/*"]
+      }
+    }
+  }
+  
